@@ -1,0 +1,61 @@
+/* $base-background: #00CC99; */
+body {
+  background: rgba(138, 98, 237, 1.0);
+/*  background: wh;*/
+/*  background-image: url(../image/milk.jpg);*/
+/*  background-size: cover;*/
+  color: rgba(103, 10, 129);
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  line-height: 1.6em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: 0.5s ease;
+  text-align: center;
+}
+
+.btn {
+  border-radius: 2px;
+  padding: 8px 12px;
+  color: #f7ab64;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: 0.5s ease;
+}
+
+.card {
+  display: inline-block;
+  background: black;
+  max-width: 400px;
+  min-height: 575.24px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border-radius: 12px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  box-sizing: border-box;
+  padding: 48px;
+  text-align: center;
+}
+.card-img-top {
+  margin-bottom: 10px;
+  padding-block: 40px;
+}
+
+.title {
+  margin: 0 0 12px;
+  color: #D18B49;
+  font-size: 24px;
+}
+
+.description {
+  margin: 0 0 48px;
+  color: white;
+}
+
+.footer a{
+  font-size: 47px;
+}
+
