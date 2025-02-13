@@ -66,13 +66,14 @@
     color: #000;
     right: 0rem;
     top: 95%;
-    left: 94%;
+    left: 94.6%;
     font-size: 25px;
 }
 .txt-black {
     position: absolute;
     color: #fff;
     top: 95%;
+    left: 0.4%;
     font-size: 25px;
   }
 .fa-linkedin-custom {
